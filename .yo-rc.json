@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "ar.edu.utn.frd"
+    },
+    "jhipsterVersion": "6.3.1",
+    "applicationType": "uaa",
+    "baseName": "petseeker",
+    "packageName": "ar.edu.utn.frd",
+    "packageFolder": "ar/edu/utn/frd",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "caffeine",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2IzN2E0NDBiNjRjYTc2MTg2OWY4Y2QzNmYxZjNjNDgxNjU3MzQwNzgzY2RmMzVkODNhODM5MDY5NDVmMjg3N2IxYWE0YjY3MTc5NzJhNDUxODc2MThlYTE5NmE5OTFhOWExNmY3YWVlNmJhYTU5MjRhYWExMTRjZWJhYjk0ZTc=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [
+      "gatling"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true
+  }
+}
