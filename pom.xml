@@ -6,7 +6,7 @@
     <groupId>ar.edu.utn.frd</groupId>
     <artifactId>petseeker</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <name>Petseeker</name>
 
     <repositories>
